@@ -1,0 +1,22 @@
+.odd {
+    color: #000000;
+    background-color: #ffa7a7;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#even1 {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#even2 {
+    color: #000000;
+    background-color: #90ee90;
+    font-weight: bold;
+}
+
+#even2,
+.odd.upper{
+    font-size: 24px;
+
+}
